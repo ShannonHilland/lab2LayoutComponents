@@ -2,6 +2,7 @@
  * Lab 2: Layout Components
  * @author Shannon Hilland
  * @date 04-10-2024
+ * github: shannonhilland
  */
 
 import React from 'react';
